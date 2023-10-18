@@ -1,0 +1,117 @@
+Design Patterns in Asp.Net
+
+There are 23 design patterns also known as the gang of fours
+
+Mediator, factory, iterator, singleton, builder, solid principles
+
+Mediator design pattern:
+	Behavioral design pattern
+	Basically, mediators are just capsules for services from the services folder, usually you would use
+	services<Iservices,servicesclass> to hide the business logic from the controller but if you need to use
+	multiple services for different funcions(PS: start breaking down tasks into to bits instead of using one big logic(you can have multiple services that way))
+	you use mediator:
+		create a mediator folder
+		create an interface mediator(Imediator)
+			within the Imediator declare a public handle(int id) method (ps:id is the id for the objects(data) you want to work with(collect or send))
+		create a mediator class that inherits from the Imediator(like Iservices and service class)
+			implement the handle(int id) method by injecting the services into the mediator class and class all of them there
+			e.g
+				private readonly IDataCollectionservice _idatacollectservice;
+				private readonly IDataSendingservice _idatasendingservice;
+				
+				
+				public <className> (private readonly IDataCollectservice idatacollectservice, private readonly IDataSendingservice idatasendingservice)
+				{
+					//rest of the code
+				}
+				
+				public Void handle(int id)
+				{
+					_idatacollectservice.<requiredaction>
+					_idatasendingservice.<requiredaction>
+				}
+		inject the mediator into the controller
+		in the controller action that requires the services you use _Imediator.Handle(id) instead, that way your controller doesn't get cluttered
+Factory design pattern:
+	Don't really understand it
+	Creational design pattern
+	used to abstract the object creation process
+Iterator design pattern:
+
+
+Singleton design pattern:
+	This design pattern is a creational design pattern that only allows the existance of one instance of a class within multiple other classes(note: when 
+	you want to use a class and its method across multiple classes, you create multiple objs within those classes).
+	Implementation
+	1)Restrict the ability to create multiple instances of a class
+		within the class to be "singletoned"
+		make the constructor private (i.e (classname = Employee) (constructor = private Employee()) ps: singleton classes don't have parameters in ctro)
+		make the class "public sealed class" instead of "public class"
+	2)Create an instance of the singleton class and set it to null
+		within the class to be "singletoned"
+		Declare variable _instance of (datatype classname of the singleton class) set it = null
+	3)Check if an instance of the singleton class exists
+		create a GetSingleton class that checks if _instance is null
+			get{
+			if (_instance == null)
+				set _instance = new Singleton() // this will be the only instantiation of the singleton class
+			}
+			return _instance /** instead of returning new Singleton which will create multiple instances of the class you will return _instance which 
+					  *  will set the instance to null when ever the class is "called" 
+	How to use methods defined in the singleton class if ctro is private
+		Use the GetSingleton method to define an instance
+		i.e
+		var Employee1 = Singleton.GetSingleton /** usually you would do this by var Employee1 = new Singleton();
+		Employee1.<methodname>			*  Employee1.<methodname>	this would create multiple instances			
+
+
+Builder design pattern:
+
+Solid Principles:
+	Single Responsibility Priciple:
+		a class should only have a single responsibility, e.g instead of a class Person having both properties of a person and methods of a person
+		make two classes, one for properties and one for methods
+	Open Closed Principles:
+		a class should be open to extensions(new features) but closed for modification e.g create an abstract class to be inherited by other classes so that 
+		the one abstract class is responsible for the action
+			public abstract class Shape
+				public asbtract Area{get; set;}
+			public class Square: Shape
+				public double length
+				public override Area()
+					return length*length
+			public class <Other shapes>: Shapes
+			pubilc class program
+				public void calcArea(object obj)
+					return Shape.Area()
+					
+
+			instead of 
+			public class Square
+				public double length{get; set;}
+			public class triangle
+				public double base{get; set;}
+				public double height{get; set;}
+			pubilc class program
+				public void calcArea()
+					if shape return area
+	Livkov Substitution Principles:
+		a child class should be able to be used as the parent class without any modification
+		e.g
+		public class Parent
+			public void saySomethingParent()
+				return ("this is the parent")
+		public class Child:Parent
+			public void saySomethingChild()
+				return("this is the child")
+		public class program
+			Child p1 = new Parent()
+			console.writeline(p1.saySomethingParent)
+
+	Interface segregation principle
+		a class should not implement an interface with methods that its not going to use rather create multiple interfaces the multiple classes can implement
+		without having methods not being implemented
+	D
+			
+			
+			

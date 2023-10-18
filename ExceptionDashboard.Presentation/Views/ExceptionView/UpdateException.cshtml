@@ -1,0 +1,66 @@
+﻿@model ExceptionDashboard.Core.Models.DTOs.ExceptionDTO
+
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table text-sm mb-0">
+            <thead>
+                <tr>
+                    <th>ExceptionCode</th>
+                    <th>ExceptionMessage</th>
+                    <th>Status</th>
+                    <th>Update</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@Model.ExceptionCode</td>
+                    <td>@Model.ExceptionMessage</td>
+                    <td>@Model.Status</td>
+                    <td>
+                        <form asp-action="UpdateExceptionStatus" asp-controller="ExceptionView">
+                            <div class="mb-3">
+                                <input class="form-control" id="exampleInputEmail1" asp-for="Id" value="@Model.Id" type="hidden">
+                            </div>
+                            <div class="mb-3">
+                                <select class="form-select" id="inlineFormSelectPref" asp-for="Status">
+                                    <option value="1">Pending</option>
+                                    <option value="2">In Progress</option>
+                                    <option value="3">Completed</option>
+                                </select>
+                            </div>
+                            <input class="btn btn-primary" type="submit" value="update" />
+                        </form>
+                    </td>
+                    <td>
+                        <form asp-action="DeleteException" asp-controller="ExceptionView">
+                            <input asp-for="Id" value="@Model.Id" type="hidden" />
+                            <input type="submit" value="Delete"/>
+                        </form>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+@*@model ExceptionDashboard.Core.Models.DTOs.ExceptionDTO
+
+@Model.ExceptionCode
+@Model.StackTrace
+
+<form asp-action="UpdateExceptionStatus" asp-controller="ExceptionView">
+    <input asp-for="Id" value ="@Model.Id" type="hidden" />
+    <select asp-for="Status" >
+        <option value="1">Pending</option>
+        <option value="2">In Progress</option>
+        <option value="3">Completed</option>
+    </select>
+    <input type="submit" value="update"/>
+</form>
+
+<form asp-action="DeleteException" asp-controller="ExceptionView">
+    <input asp-for="Id" value="@Model.Id" type="hidden" />
+    <input type="submit" value="Delete" />
+</form>*@

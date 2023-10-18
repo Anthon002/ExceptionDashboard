@@ -1,0 +1,17 @@
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Application.deps.json
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Application.runtimeconfig.json
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Application.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Application.pdb
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Core.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\bin\Debug\net7.0\ExceptionDashboard.Core.pdb
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.csproj.AssemblyReference.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.AssemblyInfoInputs.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.AssemblyInfo.cs
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.csproj.CoreCompileInputs.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.csproj.CopyComplete
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\refint\ExceptionDashboard.Application.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.pdb
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ExceptionDashboard.Application.genruntimeconfig.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Application\obj\Debug\net7.0\ref\ExceptionDashboard.Application.dll

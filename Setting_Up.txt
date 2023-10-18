@@ -1,0 +1,9 @@
+HangFire:
+	Install the hangfire package
+	add these services to your program.cs file:
+		        builder.Services.AddHangfire(x => x.UseSqlServerStorage("<connection string>"));
+            		builder.Services.AddHangfireServer();
+
+			app.UseHangfireDashboard();
+	Then check the landing page of the documentation for the background processes
+Ag-grid:

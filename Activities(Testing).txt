@@ -1,0 +1,6 @@
+Today's Activity(03/10 tuesday)
+	Testing the dotta websites as deployed with domain names
+	Joined a meeting with other employees in my department to collectively test the dotta website
+	Jotted down errors while supervisor combed through the site and informing the frontend engineers
+Today's Activity(5th/ 10 thursday)
+	Testing dotta api endpoints for face detect, facial awareness, face

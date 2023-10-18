@@ -1,0 +1,24 @@
+contains different layers that perform different tasks
+outer layer depends on inner layer
+inner layer does not depend on outer layer
+
+Domain Layer: Contains the main enterprise logic, usually the main model(entities) of the application will be stored here
+Application Layer: Depends on the Domain Layer, business logic(User Cases) is also written here but it serves as a layer 
+		   that "displays" the data collected.
+			this layer includes the IService and Service files and also an IRepository 
+			IService declares the business logic(like createTask, updateTask,... etc)(Use Cases)
+			Service inherits from the IService implements the buisiness logic
+			IRepository declares the logic for collecting data from the data source
+Infrastructure Layer: This layer depends on Application Layer and is responsible for interacting with external 
+		      datasources, dependencies and frameworks(Entityframework, Identity,dbcontext... etc) 
+			The Repository class file would be contained here and implements the declared methods in the IRepository like 
+			getting the datafrom the database using entityframework;
+			This layer basically implements the data access interface Irepository form the application layer, so you use the repository class 
+			to implement the irepository class.
+Presentation Layer:	Where your razore page or mvc pattern comes, its the layer that is concerned with how the program "looks"
+
+
+making dependency in clean architecture
+right click on dependencies and click "Add Project Reference"
+
+

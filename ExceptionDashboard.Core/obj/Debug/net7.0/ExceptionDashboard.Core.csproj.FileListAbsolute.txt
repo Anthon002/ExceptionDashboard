@@ -1,0 +1,14 @@
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\bin\Debug\net7.0\ExceptionDashboard.Core.deps.json
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\bin\Debug\net7.0\ExceptionDashboard.Core.runtimeconfig.json
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\bin\Debug\net7.0\ExceptionDashboard.Core.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\bin\Debug\net7.0\ExceptionDashboard.Core.pdb
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.csproj.AssemblyReference.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.AssemblyInfoInputs.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.AssemblyInfo.cs
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.csproj.CoreCompileInputs.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\refint\ExceptionDashboard.Core.dll
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.pdb
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ExceptionDashboard.Core.genruntimeconfig.cache
+C:\Users\PTAD\Desktop\Exception_Dashboard\ExceptionDashboard.Core\obj\Debug\net7.0\ref\ExceptionDashboard.Core.dll

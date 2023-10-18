@@ -1,0 +1,36 @@
+﻿@using ExceptionDashboard.Core.Models.DTOs;
+@model ExceptionDashboard.Core.Models.DTOs.ApplicationDTO;
+<div class="col-lg-6">
+    <div class="card">
+        <div class="card-header border-bottom">
+            <h3 class="h4 mb-0">Register Application</h3>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-action="AddApplication" asp-controller="ApplicationView">
+
+                <div class="mb-3">
+                    <label class="form-label" for="Name">Application Name*</label>
+                    <input asp-for ="Name" class="form-control" name="Name" id="exampleInputEmail1" type="text" aria-describedby="emailHelp" required>
+                </div>
+
+                <div class="mb-3">
+                    <label class="form-label" for="Code">Code*</label>
+                    <input asp-for="Code" class="form-control" name="Code" id="exampleInputEmail1" type="text" aria-describedby="emailHelp" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label" for="userselect">Assign User*</label>
+                    <select class="form-select" name="userselect" id="inlineFormSelectPref" asp-for="UserId" required>
+                        @{
+                            foreach(var item in ViewData["UserList"] as List<ApplicationUserDTO>)
+                            {
+                                <option value ="@item.Id"> @item.FirstName </option>
+                            }
+                        }
+                    </select>
+                </div>
+
+                <button class="btn btn-primary" type="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>

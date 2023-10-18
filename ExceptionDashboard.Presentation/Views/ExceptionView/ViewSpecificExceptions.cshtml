@@ -1,0 +1,74 @@
+﻿@model String
+@*Using AG-GRID To List All Exception
+*@
+
+@*<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://unpkg.com/ag-grid-community/dist/ag-grid-community.min.noStyle.js"></script>*@
+@{
+    var httpContextAccessor = new HttpContextAccessor();
+    var baseUrl = $"{httpContextAccessor.HttpContext!.Request.Scheme}://{httpContextAccessor.HttpContext.Request.Host.Value}";
+    var id = Model;
+    var appId = ViewData["appId"];
+}
+@*<a class=".text-warning font-weight-bold" asp-controller="ApplicationView" asp-action="DeleteApplication" asp-route-Id="@Mode">Delete Application</a>
+*@
+<div id="myGridDiv" class="ag-theme-alpine" style="height:500px;"></div>
+<button id="prev" class="btn btn-light"> < </button>
+<button id="next" class="btn btn-light"> > </button>
+
+
+<script type="text/javascript">
+    var baseUrl = '@baseUrl'
+    var appId = '@appId'
+    var pageSize = 20;
+    var currentPage = 1;
+    var next = document.getElementById("next");
+    var prev = document.getElementById("prev");
+
+    function deselect() {
+        gridOptions.api.deselectAll()
+    }
+
+    function RedirectTo(params){
+        link = document.createElement("a");
+        link.href = "/ExceptionView/UpdateException/" + params.value ;
+        link.textContent = "Update/Delete";
+        return link
+    }
+    const gridOptions = {
+        columnDefs: [
+            { headerName: "ExceptionMessage", field: "exceptionMessage" },
+            { headerName: "Status", field: "statusText" },
+            { headerName: "ExceptionCode", field: "exceptionCode" },
+            { headerName: "Update/Delete", field: "id", cellRenderer: RedirectTo, }
+        ],
+        defaultColDef: {
+            sortable: true,
+            filter: true,
+        },
+        rowSelection: 'multiple',
+        animateRows: true,
+    };
+    const eGridDiv = document.getElementById("myGridDiv");
+    new agGrid.Grid(eGridDiv, gridOptions);
+
+    function fetchurl(pageNumber){
+        fetch(`${baseUrl}/api/ExceptionDashboard/ViewSpecificExceptions?AppId=${appId}&pageNumber=${pageNumber}&pageSize=${pageSize}`).then(response => response.json())
+        .then(function (data) {
+            gridOptions.api.setRowData(data);
+            console.log(data);
+        });
+
+    }
+
+    fetchurl(1);
+    function changePage(offset){
+        currentPage += offset
+        if (currentPage < 1){
+            currentPage = 1;
+        }
+        fetchurl(currentPage)
+    }
+    prev.addEventListener('click', function(){changePage(-1)});
+    next.addEventListener('click', function(){changePage(1)})
+</script>

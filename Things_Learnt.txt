@@ -1,0 +1,6 @@
+Clean Architecture
+Use of service Design pattern
+Using Bootstrap template
+Sending emails using asp.net using smtp (smtp server needed,issue with google smtp)
+Ag-grid(datatables did not work for me)
+Hangfire background processes

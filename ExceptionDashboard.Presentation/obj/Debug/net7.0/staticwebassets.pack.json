@@ -1,0 +1,1613 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.blue.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.blue.min.css",
+      "PackagePath": "staticwebassets\\css\\style.blue.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.blue.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.blue.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.default.css",
+      "PackagePath": "staticwebassets\\css\\style.default.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.default.min.css",
+      "PackagePath": "staticwebassets\\css\\style.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.default.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.default.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.green.css",
+      "PackagePath": "staticwebassets\\css\\style.green.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.green.min.css",
+      "PackagePath": "staticwebassets\\css\\style.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.green.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.green.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.pink.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.pink.min.css",
+      "PackagePath": "staticwebassets\\css\\style.pink.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.pink.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.pink.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.red.css",
+      "PackagePath": "staticwebassets\\css\\style.red.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.red.min.css",
+      "PackagePath": "staticwebassets\\css\\style.red.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.red.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.red.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.sea.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.sea.min.css",
+      "PackagePath": "staticwebassets\\css\\style.sea.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.sea.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.sea.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.violet.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.violet.min.css",
+      "PackagePath": "staticwebassets\\css\\style.violet.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\css\\style.violet.min.css.map",
+      "PackagePath": "staticwebassets\\css\\style.violet.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\data\\addresses.json",
+      "PackagePath": "staticwebassets\\data\\addresses.json"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\data\\countries.json",
+      "PackagePath": "staticwebassets\\data\\countries.json"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\data\\restaurants-geojson.json",
+      "PackagePath": "staticwebassets\\data\\restaurants-geojson.json"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-0.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-11.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-1.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-2.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-3.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-4.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-5.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\brand\\brand-6.svg",
+      "PackagePath": "staticwebassets\\img\\brand\\brand-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AQ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AQ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AX.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AX.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\AZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\AZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BB.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BB.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BJ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BJ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\BZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\BZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CV.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CV.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CX.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CX.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\CZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\CZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DJ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DJ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\DZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\DZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\EC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\EC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\EE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\EE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\EG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\EG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\EH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\EH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ER.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ER.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ES.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ES.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ET.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ET.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\EU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\EU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FJ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FJ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\FR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\FR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GB.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GB.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GQ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GQ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\GY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\GY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\HK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\HK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\HN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\HN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\HR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\HR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\HT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\HT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\HU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\HU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ID.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ID.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IQ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IQ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\IT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\IT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\JE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\JE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\JM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\JM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\JO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\JO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\JP.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\JP.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KP.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KP.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\KZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\KZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LB.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LB.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LV.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LV.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\LY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\LY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ME.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ME.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ML.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ML.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MP.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MP.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MQ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MQ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MV.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MV.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MX.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MX.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\MZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\MZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NP.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NP.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\NZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\NZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\OM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\OM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\PY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\PY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\QA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\QA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\RE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\RE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\RO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\RO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\RS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\RS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\RU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\RU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\RW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\RW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SB.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SB.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ST.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ST.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SV.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SV.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SX.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SX.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\SZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\SZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TD.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TD.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TH.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TH.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TJ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TJ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TK.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TK.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TL.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TL.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TO.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TO.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TR.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TR.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TV.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TV.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\TZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\TZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\UA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\UA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\UG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\UG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\US.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\US.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\UY.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\UY.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\UZ.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\UZ.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VC.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VC.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VG.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VG.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VI.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VI.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VN.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VN.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\VU.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\VU.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\WF.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\WF.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\WS.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\WS.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\YE.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\YE.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\YT.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\YT.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ZA.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ZA.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ZM.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ZM.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\ZW.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\ZW.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_abkhazia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_abkhazia.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_basque-country.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_basque-country.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_british-antarctic-territory.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_british-antarctic-territory.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_commonwealth.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_commonwealth.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_england.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_england.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_gosquared.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_gosquared.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_kosovo.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_kosovo.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_mars.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_mars.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_nagorno-karabakh.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_nagorno-karabakh.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_nato.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_nato.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_northern-cyprus.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_northern-cyprus.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_olympics.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_olympics.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_red-cross.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_red-cross.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_scotland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_scotland.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_somaliland.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_somaliland.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_south-ossetia.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_south-ossetia.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_united-nations.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_united-nations.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_unknown.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_unknown.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\flags\\16\\_wales.png",
+      "PackagePath": "staticwebassets\\img\\flags\\16\\_wales.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-close.png",
+      "PackagePath": "staticwebassets\\img\\map-close.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-blue.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-blue.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-default.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-default.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-green.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-green.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-pink.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-pink.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-red.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-red.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-sea.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-sea.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker-violet.png",
+      "PackagePath": "staticwebassets\\img\\map-marker-violet.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\img\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup1.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup2.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup3.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup4.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup5.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup6.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\mockup7.jpg",
+      "PackagePath": "staticwebassets\\img\\mockup7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\multiselect-switch.png",
+      "PackagePath": "staticwebassets\\img\\multiselect-switch.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\paul-morris-116514-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\paul-morris-116514-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1430931071372-38127bd472b8.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1430931071372-38127bd472b8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1436018626274-89acd1d6ec9d.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1436018626274-89acd1d6ec9d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1466978913421-dad2ebd01d17.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1466978913421-dad2ebd01d17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1477763858572-cda7deaa9bc5.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1477763858572-cda7deaa9bc5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1504087697492-238a6bf49ce8.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1504087697492-238a6bf49ce8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1505275350441-83dcda8eeef5.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1505275350441-83dcda8eeef5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1508766917616-d22f3f1eea14.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1508766917616-d22f3f1eea14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\restaurant-1515164783716-8e6920f3e77c.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\restaurant-1515164783716-8e6920f3e77c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\photos\\victor-ene-1301123-unsplash.jpg",
+      "PackagePath": "staticwebassets\\img\\photos\\victor-ene-1301123-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\img\\template-mac.png",
+      "PackagePath": "staticwebassets\\img\\template-mac.png"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\js\\charts-custom.js",
+      "PackagePath": "staticwebassets\\js\\charts-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\js\\charts-home.js",
+      "PackagePath": "staticwebassets\\js\\charts-home.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\js\\front.js",
+      "PackagePath": "staticwebassets\\js\\front.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.css",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.min.css",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\scripts\\choices.js",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\scripts\\choices.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\scripts\\choices.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\base.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\base.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\base.min.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\base.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\choices.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\choices.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\vendor\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff2",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_0_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff2",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_1_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff2",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\assets\\2D333F_2_0.woff2"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\imagesloaded.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\sandbox\\background\\css\\background.css",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\sandbox\\background\\css\\background.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\sandbox\\background\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\sandbox\\background\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\sandbox\\progress\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\sandbox\\progress\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\imagesloaded\\sandbox\\progress\\progress.js",
+      "PackagePath": "staticwebassets\\vendor\\imagesloaded\\sandbox\\progress\\progress.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\css\\justValidateTooltip.css",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\css\\justValidateTooltip.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\css\\justValidateTooltip.min.css",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\css\\justValidateTooltip.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\js\\just-validate.js",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\js\\just-validate.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\js\\just-validate.min.js",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\js\\just-validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\just-validate\\tooltip.html",
+      "PackagePath": "staticwebassets\\vendor\\just-validate\\tooltip.html"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\css\\OverlayScrollbars.css",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\css\\OverlayScrollbars.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\js\\OverlayScrollbars.js",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\js\\OverlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\js\\OverlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\js\\OverlayScrollbars.min.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\js\\jquery.overlayScrollbars.js",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\js\\jquery.overlayScrollbars.js"
+    },
+    {
+      "Id": "C:\\Users\\PTAD\\Desktop\\Exception_Dashboard\\ExceptionDashboard.Presentation\\wwwroot\\vendor\\overlayscrollbars\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\vendor\\overlayscrollbars\\js\\jquery.overlayScrollbars.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ExceptionDashboard.WebApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ExceptionDashboard.WebApi.props",
+      "PackagePath": "build\\ExceptionDashboard.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ExceptionDashboard.WebApi.props",
+      "PackagePath": "buildMultiTargeting\\ExceptionDashboard.WebApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ExceptionDashboard.WebApi.props",
+      "PackagePath": "buildTransitive\\ExceptionDashboard.WebApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

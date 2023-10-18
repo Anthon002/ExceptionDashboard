@@ -1,0 +1,28 @@
+.applications{
+    padding:20px;
+    font-size: 25px;
+    font-weight: 900;
+
+}
+
+.customAppContainer{
+    margin-top: 5vh;
+    padding:40px;
+    width:100%;
+    font-size:12px;
+    display:grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:10vw;
+    background-color: white;
+
+}
+
+.customAppContainer .customAppCol .item{
+    border: 1px solid #56bb6a;
+    text-align: center;
+    padding:20px;
+    background-color: #34a44b;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+}

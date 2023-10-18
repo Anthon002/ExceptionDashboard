@@ -1,0 +1,209 @@
+Rough analysis:
+	Getting data from the api controller endpoint (Json format or object format (still deciding))
+	View the data (return to view)
+	Save the application data to database
+	using clean archietecture would be:
+		the presentation layer would be responsible for reciving the POST request and passing to the infrastructure layer throught the Repository files
+		since the major operations are (for now) are saving and viewing
+			we pass info to the infrastruture layer to save to db
+			we would need a method to return a list of all the respective data to the required field(Application to Frontpage, exceptions to exception view page with datatables,... etc)
+			
+			
+		passing the data through because I want to save the data to the database(Infrastructure layer)
+		but the application layer would be the layer responsible for implementing the saving
+		hence you would need 
+			an action to recieve the POST request(the action would also be responsible for saving to the database by passing it )
+			an action to view the Data(return to view)
+
+Focusing on creating the Application Api to receive Application Details
+	Application Details:
+		ApplicationName
+		Code(Code that caused the exception)
+		UserId(User responsible for the application)
+	(when application is created, user is assigned)
+	Controller:
+		[HttpPost]
+		Application([FromBody] )
+	Core Layer will contain these models
+		Application
+		Exception Header
+		Exception
+	In the Application layer
+		Use Cases:
+			Recieve Post request of Application, Exception and Exception Header
+		ServiceFolder:
+			Interfaces:
+				3 files
+					1 method in each file
+				IApplication
+					DTO GetApplicationData()
+				IException
+					DTO GetExceptionData()
+				IExceptionHeader
+					DTO GetExceptionHeaderData()
+			Classes:
+				get the info from IRepository
+				3 files
+					implement their respective interfaces
+				Dependency Inject IRepository to get the 
+				Application
+					Method to return ApplicationDTO
+					Method to save Application to DB
+				Exception()
+					Method to return ExceptionDTO
+					Method to save Exception to DB
+				ExceptionHeader()
+					Method to return ExceptionHeader
+					Method to save ExceptionHeader to DB
+			IRepository:
+				3 files 
+				3 interfaces
+	In the Infrastructure Layer:
+			Data folder:
+				ApplicationDbContext
+			Repository Folder:
+				3 files (Repository classes)
+				3 Methods(1 each repository class)
+				Since im not getting data from database but from controller(recieving get request) the 
+					Repository class would be responsible for returning the data 
+					hence
+						method to recieve and return the data in DTO 
+						method to recieve and save the data to database
+					How i want the api data to be collected from the controller into the Repository class
+						comes into the controller as individual variables (Name, UseId, Code)
+						create object(ApplicationDTO) 
+						call the repository.getapplication method and pass obj as arg
+						hence, getapplication will take "ApplicationDTO application" as parameter
+				
+
+What you are doing Revised(Application):
+	saving the Application to database:
+		pass the data to the IApplicationService from the controller
+		throught the ApplicationService Class call the Irepository.SaveApplicationToDB();
+	viewing the data: 
+		in the controller call the IapplicatonService.ViewAllApplications
+		in the IapplicationService.ViewAllApplication call the IRepository.ViewAllApplication
+		this would return the List data to the controller
+		then return it to the view
+What you are doing today (25/08 friday):
+	Setting up the controller to accept the POST request(done)
+	Set up a different project for testing POST request to ExceptionDashboard(done)
+
+Todays's goal(26/08 saturday):
+	Setting a delete application action(done)
+	Setting up the project to :
+	get and save exceptions(done)
+
+Today's goal (28/08 monday):
+	test if the exception was successfully gotten and saved(Done)
+	view exceptions(done)
+	delete exceptions(done)
+
+Today's goal (29/08 tuesday):
+	test the viewing and deleting exception(done)
+	get and save exceptionheader(done)
+
+Today's goal (30/08 wednesday):
+	test exceptionheader get and save(done)
+	(impromptu) made changes to the main enterprise logic (main data models)
+	view exceptionheader(done)
+	delete exceptionheader(done)
+
+Today's goal (31/08 Thursday):
+	add UpdateExceptionStatus(done)
+	Look up how to send emails(done)
+
+Today's goal (4th/09 monday):
+	populate the database with application, exception and exceptionheaders(done)
+	setup view(download bootstrap template from bootstrapious and setup the page to view and click the application)(done)
+Today's goal(5th/09 tuesday):
+	setup the Application view page to view all the registered application(done)
+	setup the exception view page to view all exceptions with datatables(not done)
+Today's goal(6th/09 wednesday):
+	fix the datatables(not done)
+Today's goal (7th/09 thursday):
+	fix the datatables(could not) used ag-grid instead(done)
+Today's goal (8th/09 friday):
+	setup the application view page to show exceptions specific to the clicked application(done)
+	create form to create application (to be linked from the application view page)(done)
+	setup the links to the different pages ( to ViewApplications, ViewAllExceptions) (done)
+	
+need to setup hangfire (sun)
+need to setup email (sat/sun)
+need to setup OTP registration (next week)
+
+Today's goal (12th/09 tuesday):
+	setup identity authentication
+		Create ApplicationUser model in the core that will inherit from the identityUser class(remeber to use Microsoft.AspNetCore.Identity.EntityFrameWorkCore in dbcontext and Microsoft.AspNetCore.Identity for the ApplicationUser)
+		in a UserController dependency inject Usermanager and Signinmanager
+Today's goal (13th/09 wednesday)create a sign up page
+			var user = new IdentityUser(){username = applicationuser.username,...etc}
+			var result = await Usermanager.createasync(user, *application.password*)
+			if result.isSucceeded
+				
+	edit the identity authentication to use OTP instead of passwords
+What I did that was unrecorded for the week(14 - 17th/ 09)
+	Setup the signup feature 
+	Setup the email confirmation feature using OTP
+Today's goal (19th/09 tuesday):
+	Setting up the attribute to restrict access to users with unconfirmed emails (done)
+	Setup the logout feature(done)
+Today'goal (20th/09 wednesday):
+	Setup the "Send confirmation Key again" feature(done, still needs fixing)
+Today's goal (21th/09 thursday):
+	Setup the login feature using OTP(done)
+	met with my supervisor(cyril) to vet my progress and get critizism (done)
+	get the BaseUrl using httpContextAccessor instead of hardcoding the BaseUrl (done) ps: this would help whenever you change your domain name or host name
+	Apply changes based on critizism
+		-Make new endpoint to recieve AppId, exceptionCode, stacktrace and exception message, use this new structure for better app, exceptionheader, exception relationships
+		-Remove ExceptionHeaderId and Stacktrace from the grid ps:agrid is not a table, and add Appname
+		-Remember to look at the actual sheet with the plans!!
+		-Create a new exceptionViewDto to try to view the appname for the appid
+Today's goal (25th/09 monday):
+		-Setup hangfire(done)
+		-Send periodic email of exceptions to respective users(done)
+Today's goal (26th/09 tuesday):
+		-Make the rows clickable to update status(done)
+			Make a controller that takes in exceptionId and goes in the url "ViewExceptions/Exception/exceptionId"
+		
+Today's goal (27th/09 wednesday):
+		-Debug the redirection from the table to the page for updating the status and deleting an exception(done)
+		-Make the grid have a column for AppName in the ViewAllException Page
+Today's goal(28th/ 09 thursday):
+		-Setup the template for the update/delete exception page(done)
+		-Setup Admin level authorization(done)
+Today's goal(29th/ 09 friday):
+		-Restrict "Add Applications" to just the Admin(done)
+		-Set the "Add Application" page to have a drop down of all Registered Users(done)
+Today's goal(2nd/ 10): (ps: write Independence day holilday in your log book):
+		- I put the Currently logged in user's Name on Display(done)
+		- I added Application Name to the Exception Table(done)
+		- I added a "general informations" table to the Application View page(done)
+Today's goal(3rd/ 10): Check Activitie(Testing).txt
+
+Today's goal(4th/ 10 wednesday):
+		- Cleaning up the code (removing unnessesary comments and imports and removing unnessary bootstrap templates codes) (done)
+		- Adding nessesary comments for easier code comprehension(done)
+			Documenting the design pattern used, the clean architecture structure used and the packages(dependencies) used
+		- Setting up An error documentation sheet for testing Dotta's live domains(done)
+		- Explorative testing of Dotta's live domains(done)
+		- Documenting Errors on the error documentation sheet(done)
+Today's Activities(5th/ 10 thursday)
+		- Add "Delete Application" Feature on the "View Applicaition" View Page
+		- Retest the issues tested yesterday since update has been obtained from the developers
+
+Navigation Properties, Foreign Key
+Im assuming that the POST requests would also return the correct IDs so the relationships would be set automaticatlly if not implement relationships.
+
+Things I need to learn that i should have implemented:
+	Correctly verify emails with Identity
+	How to register areas
+
+2 plain trousers
+one colar neck
+two joggers
+boxers
+3 tshirts
+one shoe
+singlet
+
